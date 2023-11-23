@@ -2,8 +2,6 @@
 
 FrontEnd Deployed Link-https://coresonant-systems-22daf1.netlify.app/
 
-Installation ** Clone the repository: git clone :-https://github.com/himangshumahato82/attryb_Assignment/
-
 For FrontEnd Install dependencies: npm install Start the development server: npm start
 
 Add Title and display all todo list form:!![Screenshot (280)](https://github.com/himangshumahato82/CORESONANT-SYSTEMS/assets/108947867/50ba9212-5747-4925-8ff0-785f43b1f5a2)
