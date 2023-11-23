@@ -37,7 +37,7 @@ function DisplayData() {
     const itemToEdit = data.find((item) => item.id === id);
     setEditedTitle(itemToEdit.title);
    
-    // Set other fields to edit
+    
   };
 
   const handleUpdateData = () => {
