@@ -118,7 +118,7 @@ function DisplayData() {
 
   return (
     <div style={{ width: "100%", display: "block", margin: "auto", textAlign: "center" }}>
-      <h1 style={{ marginBottom: "20px" }}>Display ToDo List</h1>
+      <h1 style={{ marginBottom: "20px" }}>Display ToDo List...</h1>
 
       <div style={{ width: "80%", display: "block", margin: "auto" }}>
         <div>
